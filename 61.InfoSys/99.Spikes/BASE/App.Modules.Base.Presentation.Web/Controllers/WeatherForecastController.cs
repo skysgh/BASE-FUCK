@@ -1,5 +1,5 @@
-﻿using App.Host.Web.Services;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace App.Host.Web.Controllers
 {
@@ -14,10 +14,12 @@ namespace App.Host.Web.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
-        public WeatherForecastController(IFooService fooservice, ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(
+            //IFooService fooservice, 
+            ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
-            var r = fooservice.SayHello("Tom");
+           // var r = fooservice.SayHello("Tom");
         }
 
         [HttpGet]

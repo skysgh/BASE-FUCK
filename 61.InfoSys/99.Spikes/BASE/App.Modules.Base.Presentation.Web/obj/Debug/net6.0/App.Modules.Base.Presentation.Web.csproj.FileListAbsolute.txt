@@ -1,0 +1,12 @@
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\bin\Debug\net6.0\App.Modules.Base.Presentation.Web.deps.json
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\bin\Debug\net6.0\App.Modules.Base.Presentation.Web.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\bin\Debug\net6.0\App.Modules.Base.Presentation.Web.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.csproj.AssemblyReference.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.AssemblyInfoInputs.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.AssemblyInfo.cs
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.csproj.CoreCompileInputs.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\refint\App.Modules.Base.Presentation.Web.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\App.Modules.Base.Presentation.Web.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Presentation.Web\obj\Debug\net6.0\ref\App.Modules.Base.Presentation.Web.dll

@@ -1,8 +1,11 @@
+using App.Host.Web.Controllers;
 using App.Host.Web.Services;
 using App.Host.Web.Services.Implementations;
 using App.Host.Web.Startup;
 using Lamar.Microsoft.DependencyInjection;
+using Microsoft.AspNetCore.Mvc.ApplicationParts;
 using Microsoft.Win32;
+using System.Reflection;
 
 namespace App.Host.Web
 {
@@ -15,8 +18,20 @@ namespace App.Host.Web
             // Add services to the container.
             RegisterServices(builder);
 
+            var assembly = typeof(WeatherForecastController).GetTypeInfo().Assembly;
+            var part = new AssemblyPart(assembly);
 
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews()
+                
+               // Correction: this is now implicit for all Referenced assemblies.
+               // Although not the case for non-referenced assemblies.
+               // See: https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-6.0
+               // See:
+               // Add this to find parts in other assemblies:
+               //.ConfigureApplicationPartManager(
+               // apm => apm.ApplicationParts.Add(
+               //     part))
+               ;
 
             var app = builder.Build();
 

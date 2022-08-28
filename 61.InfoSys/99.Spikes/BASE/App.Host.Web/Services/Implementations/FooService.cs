@@ -1,5 +1,4 @@
-﻿using App.Host.Web.Controllers;
-
+﻿
 namespace App.Host.Web.Services.Implementations
 {
     public class FooService : IFooService
