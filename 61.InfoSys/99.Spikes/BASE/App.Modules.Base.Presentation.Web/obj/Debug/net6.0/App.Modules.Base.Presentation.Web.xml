@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>App.Modules.Base.Presentation.Web</name>
+    </assembly>
+    <members>
+        <member name="T:App.Modules.Base.Presentation.Web.Class1">
+            <summary>
+            TO Remove
+            </summary>
+        </member>
+        <member name="T:App.Host.Web.Controllers.WeatherForecastController">
+            <summary>
+            REST API Controller for Weather Forecasting.
+            </summary>
+        </member>
+        <member name="M:App.Host.Web.Controllers.WeatherForecastController.#ctor(App.Host.Web.Services.IFooService,Microsoft.Extensions.Logging.ILogger{App.Host.Web.Controllers.WeatherForecastController})">
+            <summary>
+            Constructor
+            </summary>
+            <param name="fooservice"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:App.Host.Web.Controllers.WeatherForecastController.Get">
+            <summary>
+            REST API GET Verb handler
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:App.Host.Web.WeatherForecast">
+            <summary>
+            DTO for WeatherServiceController
+            </summary>
+        </member>
+        <member name="P:App.Host.Web.WeatherForecast.Date">
+            <summary>
+            Date of Weather Reading
+            </summary>
+        </member>
+        <member name="P:App.Host.Web.WeatherForecast.TemperatureC">
+            <summary>
+            Temperature in C
+            </summary>
+        </member>
+        <member name="P:App.Host.Web.WeatherForecast.TemperatureF">
+            <summary>
+            Temperature in F
+            </summary>
+        </member>
+        <member name="P:App.Host.Web.WeatherForecast.Summary">
+            <summary>
+            Text based summary of temperature
+            </summary>
+        </member>
+    </members>
+</doc>

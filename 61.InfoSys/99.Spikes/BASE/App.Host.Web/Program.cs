@@ -1,7 +1,5 @@
 using App.Host.Web.Controllers;
-using App.Host.Web.Services;
-using App.Host.Web.Services.Implementations;
-using App.Host.Web.Startup;
+//using App.Host.Web.Startup;
 using Lamar.Microsoft.DependencyInjection;
 using Microsoft.AspNetCore.Mvc.ApplicationParts;
 using Microsoft.Win32;
@@ -68,7 +66,7 @@ namespace App.Host.Web
                 //But even that is not as flexible as scanning:
 
                registry.Scan(x => {
-                    string path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
+                    string? path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
 
                     //x.TheCallingAssembly();
 
