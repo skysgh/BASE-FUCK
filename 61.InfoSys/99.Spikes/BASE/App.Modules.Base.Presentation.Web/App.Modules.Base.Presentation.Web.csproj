@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\App.Modules.Base.Common\App.Modules.Base.Common.csproj" />
     <ProjectReference Include="..\App.Modules.Base.Infrastructure\App.Modules.Base.Infrastructure.csproj" />
   </ItemGroup>
 

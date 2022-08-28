@@ -1,0 +1,15 @@
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\bin\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.deps.json
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\bin\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\bin\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\bin\Debug\net6.0\App.Modules.Base.Common.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\bin\Debug\net6.0\App.Modules.Base.Common.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.csproj.AssemblyReference.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.AssemblyInfoInputs.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.AssemblyInfo.cs
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.csproj.CoreCompileInputs.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.csproj.CopyComplete
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\refint\App.Modules.Base.Infrastructure.Storage.EF.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\App.Modules.Base.Infrastructure.Storage.EF.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Infrastructure.Storage.EF\obj\Debug\net6.0\ref\App.Modules.Base.Infrastructure.Storage.EF.dll

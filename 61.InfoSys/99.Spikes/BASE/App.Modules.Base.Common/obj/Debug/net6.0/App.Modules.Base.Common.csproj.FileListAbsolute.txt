@@ -1,0 +1,12 @@
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\bin\Debug\net6.0\App.Modules.Base.Common.deps.json
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\bin\Debug\net6.0\App.Modules.Base.Common.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\bin\Debug\net6.0\App.Modules.Base.Common.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.csproj.AssemblyReference.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.AssemblyInfoInputs.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.AssemblyInfo.cs
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.csproj.CoreCompileInputs.cache
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\refint\App.Modules.Base.Common.dll
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\App.Modules.Base.Common.pdb
+C:\NOSYNC\REPOS\MB.BASE\61.InfoSys\99.Spikes\BASE\App.Modules.Base.Common\obj\Debug\net6.0\ref\App.Modules.Base.Common.dll

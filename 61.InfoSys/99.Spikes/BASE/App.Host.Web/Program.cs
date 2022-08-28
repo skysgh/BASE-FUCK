@@ -1,7 +1,9 @@
 using App.Host.Web.Controllers;
+using App.Modules.Base.Infrastructure.Storage.EF;
 //using App.Host.Web.Startup;
 using Lamar.Microsoft.DependencyInjection;
 using Microsoft.AspNetCore.Mvc.ApplicationParts;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Win32;
 using System.Reflection;
 
@@ -57,6 +59,18 @@ namespace App.Host.Web
         static void RegisterServices(WebApplicationBuilder builder)
         {
 
+
+            // Add DbContext:
+            // Except that means a dependency on EF
+            // From Host...not the best. Better if it could be added later.
+            // But how... Since Lamar ServiceRepository doesn't have view
+            // back to builder...
+            // So instead, have a direct Ref on the static class in the EF.SqlServer
+            // assembly (where it's ok to have a Ref) and leverage it to initiate
+            // the Builder before it is built.
+            FuckFuckFuck.Crap(builder.Services, builder.Configuration);
+
+           
             builder.Host.UseLamar((context, registry) =>
             {
                 // register services using Lamar
@@ -64,14 +78,16 @@ namespace App.Host.Web
                 //in favour of:
                 //registry.IncludeRegistry<ModuleServiceRegistry>();
                 //But even that is not as flexible as scanning:
-
-               registry.Scan(x => {
+                // As per 
+                // https://jasperfx.github.io/lamar/documentation/ioc/registration/auto-registration-and-conventions/
+                registry.Scan(x => {
                     string? path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
 
                     //x.TheCallingAssembly();
 
                     //x.AssembliesFromPath(path);
 
+                   
                     x.AssembliesAndExecutablesFromApplicationBaseDirectory(
                         f => { return f.Location.Contains("App."); }
                         );

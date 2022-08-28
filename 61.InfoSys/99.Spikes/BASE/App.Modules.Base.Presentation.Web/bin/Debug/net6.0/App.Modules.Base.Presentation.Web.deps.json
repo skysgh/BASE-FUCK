@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "App.Modules.Base.Presentation.Web/1.0.0": {
         "dependencies": {
+          "App.Modules.Base.Common": "1.0.0",
           "App.Modules.Base.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.Extensions.Logging": "6.0.0"
@@ -798,6 +799,11 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
+      "App.Modules.Base.Common/1.0.0": {
+        "runtime": {
+          "App.Modules.Base.Common.dll": {}
+        }
+      },
       "App.Modules.Base.Infrastructure/1.0.0": {
         "dependencies": {
           "Lamar": "8.0.1",
@@ -1360,6 +1366,11 @@
       "sha512": "sha512-Mk2mKmPi0nWaoiYeotq1dgeNK1fqWh61+EK+w4Wu8SWuTYLzpUnschb59bJtGywaPq7SmTuPf44wrXRwbIrukg==",
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
+    },
+    "App.Modules.Base.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "App.Modules.Base.Infrastructure/1.0.0": {
       "type": "project",

@@ -36,6 +36,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\App.Modules.Base.Infrastructure.Storage.EF\App.Modules.Base.Infrastructure.Storage.EF.csproj" />
     <ProjectReference Include="..\App.Modules.Base.Presentation.Web\App.Modules.Base.Presentation.Web.csproj" />
   </ItemGroup>
 
